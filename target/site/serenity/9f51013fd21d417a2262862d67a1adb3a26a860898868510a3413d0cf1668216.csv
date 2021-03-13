@@ -1,0 +1,2 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"To verify the functionality for Issues Create  and  get and detele functionality for Issues in JiraAPI","Verify the Delete Issue API is working correctly","SUCCESS","2021-03-13T18:34:34.666+01:00","0.0","0.11"
